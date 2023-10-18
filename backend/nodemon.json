@@ -1,0 +1,9 @@
+{
+	"env": {
+		"DB_USER": "mgsetler",
+		"DB_PASSWORD": "mgsetler",
+		"DB_NAME": "mern",
+		"GOOGLE_API_KEY": "AIzaSyCIaAc2c5M3VpbCH6PPq_guw9lHuowX0s",
+		"JWT_KEY": "supersecret_dont_share"
+	}
+}
